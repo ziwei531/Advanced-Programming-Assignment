@@ -7,4 +7,4 @@ This Assignment Project is done by:
 3. Lim Teck Siang
 4. Elvina Ling Pei Xuan
 5. Naveesen a/l Ravichandran
-6. Wong Siew Chung 0351180
+6. Wong Siew Chung

@@ -1,0 +1,33 @@
+30
+3:A:Which of the following is the flag of Rwanda?:Rwanda_Q5C1.png:Rwanda_Q5C2.png:Rwanda_Q5C3.png:Rwanda_Q5C4.png
+1:A:Before Rwanda gained independence in 1962, what country controlled it?:Belgium:France:Netherlands:United Kingdom
+1:C:What is the native language of most of Rwanda’s people?:French:English:Kinyarwanda:Swahili
+2:D:What is the Capital of Rwanda?:picture_of_rwandaMap.png:Kibuya:Kibungo:Byumba:Kigali
+2:A:.___, sometimes called the Dance of Heroes, is a traditional dance performed by men in Rwanda; women are not allowed to do so.:Q4_Rwanda.png:Intore:Joget:Zapin:Kathakali
+1:A:What is the official language of Cape Verde?:Portuguese:Italian:English:French
+1:C:When did Cape Verde become independent?:12 Feb 1978:31 May 1968:5 July 1975:16 Nov 1969
+1:B:What is the capital of Cape Verde?:Bishkek:Praia:Mindelo:Santa Maria
+2:A:This island is considered the 'hikers' paradise. What is the name of this island?:Cape_Hikers.png:Santo Antão:Maio:Sal:São Nicolau
+3:A:Who was Cape Verde’s president in 2003?:Cape_Q5_C1.png:Cape_Q5_C2.png:Cape_Q5_C3.png:Cape_Q5_C4.png
+3:A:Who won the general election in the Republic of Korea in 2022?:Q1_Korea_C1.jpg:Q1_Korea_C2.jpg:Q1_Korea_C3.jpg:Q1_Korea_C4.jpg
+1:D:What is the total population South Korea has as of now (2022)?:30 million:45 million:25 million:51 million
+3:C:Which of the following is the flag of the Republic of Korea?:Q3_Korea_C1.jpg:Q3_Korea_C2.jpg:Q3_Korea_C3.jpg:Q3_Korea_C4.jpg
+1:B:Which of these is the highest mountain in the Republic of Korea?:Chiri-san:Hallasan Mountain:Bukhansan:Seoraksan
+1:D:What is the traditional dress of the Republic of Korea called?:Yukata:Kimono:Hanfu:Hanbok
+1:B:What is Kyrgyzstan best known for?:Genting Highlands:Walnut-fruit forests:Global financial center:Varied landscapes and diverse culture
+1:A:What was Kyrgyzstan called before?:Kyryo:Kyrgyz Republic:Kirghizia:KGF
+3:A:Which of the following is the flag of Kyrgyzstan?:Q3_Kyrgyzstan_C1.png:Q3_Kyrgyzstan_C2.png:Q3_Kyrgyzstan_C3.png:Q3_Kyrgyzstan_C4.png
+1:D:What does the Kyrgyzstan flag symbolize?:Peace:Bravery and Valor:Danger:Courage
+1:B:What is the currency of Kyrgyzstan?:Kazakhstani tenge:The Som:Euro:Angolan kwanza
+1:B:Being the most populous country in Central America and the 11th most populous country in the Americas, what is the estimated population of Guatemala?:32.6 million:17.7 million:65.2 million:13.2 million
+1:c:The capital and largest city of Guatemala, Guatemala City also known as?:Antigua Guatemala:Quetzaltenango:Nueva Guatemala de la Asunción:Kuala Lumpur
+2:A:The beautiful scenery above was taken in a small city known as Antigua, the most popular tourist destination in Guatemala. The ___ make the city a museum of Spanish colonial history.:Guatemala_Q3.png:ruins of colonial edifices:national birds, Resplendent Quetzal:volcanic landscape:friendly people
+3:D:Which is the national flag of Guatemala?:Q1_Guatemala_C1.png:Q1_Guatemala_C2.png:Q1_Guatemala_C3.png:Q1_Guatemala_C4.png
+1:D:There are 22 languages spoken in the country. However, what is the national language of Guatemala?:Bahasa Malaysia:Hakka:English:Spanish
+1:C:Which of the following is the capital of Nicaragua?:Corinto:Granada:Managua:Leon
+1:B:Which of the following is the currency of Nicaragua?:Lira:Cordoba:Escuda:Krone
+1:C:Which of the following is the national language of Nicaragua?:Basque:Greek:Spanish:Lapp
+2:B:The person in the picture above is the President of Nicaragua in 1990 – 1997. Which of the following is the name of the person in the picture above?:Q4_Nicaragua.png:Juan Bautista Sacasa:Violeta Barrious de Chamorro:Anastasio Somoza Garcia:Luis Somoza Debavle
+3:D:Which of the following is the national flag of Nicaragua?:Q5_Nicaragua_C1.png:Q5_Nicaragua_C2.png:Q5_Nicaragua_C3.png:Q5_Nicaragua_C4.png
+
+
