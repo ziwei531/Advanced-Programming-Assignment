@@ -9,7 +9,7 @@
 1:B:What is the capital of Cape Verde?:Bishkek:Praia:Mindelo:Santa Maria
 2:A:This island is considered the 'hikers' paradise. What is the name of this island?:Cape_Hikers.png:Santo Antão:Maio:Sal:São Nicolau
 3:A:Who was Cape Verde’s president in 2003?:Cape_Q5_C1.png:Cape_Q5_C2.png:Cape_Q5_C3.png:Cape_Q5_C4.png
-3:A:Who won the general election in the Republic of Korea in 2022?:Q1_Korea_C1.jpg:Q1_Korea_C2.jpg:Q1_Korea_C3.jpg:Q1_Korea_C4.jpg
+3:A:Who won the general election in the Republic of Korea in 2022?:Q1_Korea_C1.jpg:Q1_Korea_C2.jpg:Q1_Korea_C3.png:Q1_Korea_C4.jpg
 1:D:What is the total population South Korea has as of now (2022)?:30 million:45 million:25 million:51 million
 3:C:Which of the following is the flag of the Republic of Korea?:Q3_Korea_C1.jpg:Q3_Korea_C2.jpg:Q3_Korea_C3.jpg:Q3_Korea_C4.jpg
 1:B:Which of these is the highest mountain in the Republic of Korea?:Chiri-san:Hallasan Mountain:Bukhansan:Seoraksan
